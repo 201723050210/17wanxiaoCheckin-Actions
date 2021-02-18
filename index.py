@@ -588,7 +588,7 @@ def wanxiao_qq_mail_push(send_email, send_pwd, receive_email, check_info_list):
     mail_msg_list = [f"""
 <h2><center> >>>>  <a href="https://github.com/ReaJason/17wanxiaoCheckin-Actions">17wanxiaoCheckin-Actions</a>
 <<<<</center></h2>
-<h2><center>期待你的Star✨</center></h2>
+<h2><center>微信消息提醒！</center></h2>
 <h3><center>打卡时间：{bj_time}</center></h3>
 """
                      ]
