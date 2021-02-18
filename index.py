@@ -576,7 +576,7 @@ def wanxiao_server_push(sckey, check_info_list):
 >
 > [17wanxiaoCheckin-Actions](https://github.com/ReaJason/17wanxiaoCheckin-Actions)
 >
->期待你给项目的star✨
+>微信消息测试！
 """
     )
     return server_push(sckey, "健康打卡", "\n".join(push_list))
